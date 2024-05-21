@@ -1,0 +1,14 @@
+C:\Users\Charly\source\repos\DelegatesActivity\DelegatesActivity\obj\Debug\net8.0\DelegatesActivity.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Charly\source\repos\DelegatesActivity\DelegatesActivity\obj\Debug\net8.0\DelegatesActivity.AssemblyInfoInputs.cache
+C:\Users\Charly\source\repos\DelegatesActivity\DelegatesActivity\obj\Debug\net8.0\DelegatesActivity.AssemblyInfo.cs
+C:\Users\Charly\source\repos\DelegatesActivity\DelegatesActivity\obj\Debug\net8.0\DelegatesActivity.csproj.CoreCompileInputs.cache
+C:\Users\Charly\source\repos\DelegatesActivity\DelegatesActivity\bin\Debug\net8.0\DelegatesActivity.exe
+C:\Users\Charly\source\repos\DelegatesActivity\DelegatesActivity\bin\Debug\net8.0\DelegatesActivity.deps.json
+C:\Users\Charly\source\repos\DelegatesActivity\DelegatesActivity\bin\Debug\net8.0\DelegatesActivity.runtimeconfig.json
+C:\Users\Charly\source\repos\DelegatesActivity\DelegatesActivity\bin\Debug\net8.0\DelegatesActivity.dll
+C:\Users\Charly\source\repos\DelegatesActivity\DelegatesActivity\bin\Debug\net8.0\DelegatesActivity.pdb
+C:\Users\Charly\source\repos\DelegatesActivity\DelegatesActivity\obj\Debug\net8.0\DelegatesActivity.dll
+C:\Users\Charly\source\repos\DelegatesActivity\DelegatesActivity\obj\Debug\net8.0\refint\DelegatesActivity.dll
+C:\Users\Charly\source\repos\DelegatesActivity\DelegatesActivity\obj\Debug\net8.0\DelegatesActivity.pdb
+C:\Users\Charly\source\repos\DelegatesActivity\DelegatesActivity\obj\Debug\net8.0\DelegatesActivity.genruntimeconfig.cache
+C:\Users\Charly\source\repos\DelegatesActivity\DelegatesActivity\obj\Debug\net8.0\ref\DelegatesActivity.dll
